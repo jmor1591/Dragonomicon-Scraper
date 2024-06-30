@@ -48,6 +48,13 @@ def fetch_spell(url):
     duration_tag = content_div.find('strong', string='Duration:')
     duration = duration_tag.next_sibling.strip() if duration_tag and duration_tag.next_sibling else ''
     
+    # Extract description from <div class="nice-textile">
+    description_div = content_div.find('div', class_='nice-textile')
+    if description_div:
+        description = "\n".join(p.text.strip() for p in description_div.find_all('p'))
+    else:
+        description = ""
+    
     # Format the output
     output = f"{spell_name}\n"
     output += f"Level: {level}\n"
@@ -56,6 +63,7 @@ def fetch_spell(url):
     output += f"Range: {range_}\n"
     output += f"Target: {target}\n"
     output += f"Duration: {duration}\n"
+    output += f"{description}\n"
     
     return output.strip()
 

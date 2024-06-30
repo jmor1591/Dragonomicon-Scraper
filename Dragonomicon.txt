@@ -5,6 +5,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 round/level
+You imbue the energy of your breath weapon with coherence, mobility, and a semblance of life.The animated breath then attacks whomever or whatever you designate.The spell works only on breath weapons that deal energy (acid, cold, electricity, fire, or sonic) damage.The animated breath has the following characteristics.Type: Construct.Subtype: The same as yours, or the energy type of your breath weapon if you do not have a subtype.Size: One size smaller than you.Hit Dice: Equal to the number of dice of damage your breath weapon deals.The Hit Dice are 10-sided.Constructs also receive bonus hit points based on size:Diminutive, Tiny: —Small: 10Medium: 20Large: 30Huge: 40Gargantuan: 60Colossal: 80Speed: Varies by breath type:Acid: 20 ft., swim 90 ft.Cold: 30 ft.Electricity: Fly 100 ft. (perfect)Fire: 50 ft.Sonic: Fly 100 ft. (perfect)AC: The animated breath's natural armor bonus varies by size:Diminutive or Tiny: +2Small or Medium: +3Large: +4Huge: +8Gargantuan: +10If your breath weapon uses force energy, this bonus is an armor bonus composed of force (like that granted by mage armor) rather than a natural armor bonus.Attacks: The animated breath makes slam attacks according to its Hit Dice.Damage: Each successful hit deals bludgeoning damage (varies by size of the animated breath; see below) plus energy damage equal to one die of the same size as your breath weapon damage.Diminutive: 1d2Tiny: 1d3Small: 1d4Medium: 1d6Large: 1d8Huge: 2d6Gargantuan: 2d8For example, a Colossal red dragon's animated breath is Gargantuan in size, so it deals 2d8 points of bludgeoning damage on a successful hit—plus 1d10 points of fire damage, because d10 is the size of die used to determine a red dragon's breath weapon damage.Special Qualities: Creatures that hit the animated breath with natural weapons or unarmed attacks take energy damage as though hit by the breath's attack.Construct Traits: The animated breath is immune to mindaffecting effects, and to poison, magic sleep effects, paralysis, stunning, disease, death effects, necromantic effects, and any effect that requires a Fortitude save unless it also works on objects.The breath is not subject to critical hits, nonlethal damage, ability damage, ability drain, energy drain, or death from massive damage.Saves: The animated breath has no good saves.All of its save bonuses are 1/3 of its Hit Dice plus the appropriate ability modifier.Abilities: The animated breath has no Constitution or Intelligence score.Its Wisdomand Charisma scores are both 1.Its Strength and Dexterity vary by size:Diminutive: Str 6, Dex 16Tiny: Str 8, Dex 14Small: Str 10, Dex 12Medium: Str 12, Dex 10Large: Str 16, Dex 10Huge: Str 20, Dex 8Gargantuan: Str 24, Dex 6Alignment: Always neutral.An old brass dragon's animated breath has the following statistics:Large construct (fire); HD 8d10+30; hp 74; Init +0; Spd 50 ft.; AC 13, touch 9, flat-footed 13; Atk +9/+4 (1d8+1d6 fire, slam); SQ burn, construct traits; AL N; SV Fort +2, Ref +2, Will -3; Str 16, Dex 10, Con —, Int —, Wis 1, Cha 1.An old red dragon's animated breath has the following statistics:Huge construct (fire); HD 16d10+40; hp 128; Init -1; Spd 50 ft.; AC 15, touch 9, flat-footed 15; Atk +15/+10/+5 (2d6+1d10 fire, slam); SQ burn, construct traits; AL N; SV Fort +5, Ref +4, Will +0; Str 20, Dex 8, Con —, Int —, Wis 1, Cha 1.Casting the spell requires a standard action, which includes using your breath weapon.When you use your breath weapon, it immediately takes animate form and attacks.It does not form as a cone or a line, and does not deal damage when it is used to cast this spell.
 
 Antidragon Aura
 Level: Cleric 4, Sorcerer 4, Wizard 4
@@ -13,6 +14,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: 1 creature/two levels, no two of which can be more than 30 ft. apart
 Duration: 1 minute/level
+All targets gain a +2 luck bonus to Armor Class and on saving throws against the attacks, spells, and special attacks (extraordinary, supernatural, and spell-like) of dragons.This bonus increases by +1 for every four caster levels above 7th (to +3 at 11th, +4 at 15th, and a maximum of +5 at 19th).Material Component: A chunk of platinum worth at least 25 gp (slightly less than 1 ounce).
 
 Antimagic Ray
 Level: Sorcerer 7, Wizard 7
@@ -21,6 +23,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One creature or object
 Duration: 1 round/level
+An invisible ray projects from your fingers.You must succeed on a ranged touch attack with the ray to strike a target.The target, if struck, functions as if it were inside an antimagic field.If this spell is used against a creature, the target can't cast spells or can't use supernatural or spell-like abilities, nor do such abilities have any effect on the creature.However, the creature can still use spell completion items (such as scrolls) or spell trigger items (such as wands), even though it can't cast the spells required.If this spell is used against an object, that object's magical powers are suppressed—including any spells previously cast and currently in effect on the item, as well as any spells or magical effects targeted on the object during the antimagic ray's duration.Remember that an object struck by the ray only receives a saving throw if it is attended or if it is a magic item.An unattended item, even if currently under the effect of a spell (such as a torch with continual flame cast upon it), receives no save.The spell doesn't affect any objects other than the target itself, even if those objects are worn, carried by, or in contact with the target.For instance, if a creature is the target, its equipment remains unaffected.Material Component: A pinch of iron filings mixed with ruby dust worth 100 gp.
 
 Aura of Evasion
 Level: Cleric 5, Sorcerer 6, Wizard 6
@@ -29,6 +32,7 @@ Casting Time: 1 standard action
 Range: 
 Target: 
 Duration: 1 minute/level
+You and all creatures within 10 feet of you gain evasion, but only against breath weapons.(If a breath weapon would normally allow a Reflex saving throw for half damage, a creature within an aura of evasion that successfully saves takes no damage instead).The effect of this spell doesn't stack with any existing evasion or improved evasion abilities.Material Component: Powdered emerald worth 500 gp.
 
 Aura of Terror
 Level: Sorcerer 6, Wizard 6
@@ -37,6 +41,11 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 minute/level
+You become surrounded by an aura of fear.Whenever you charge or attack, you inspire fear in all creatures within 30 feet that have fewer Hit Dice than your caster level.Each potentially affected opponent must succeed on a Will save or become shaken—a condition that lasts until the opponent is out of range.A successful save leaves that opponent immune to your frightful presence for 24 hours.If you cast this spell when you already have the frightful presence ability or a fear aura, the existing ability becomes more effective in the following ways:
+
+The radius of the area affected by the ability increases by 10 feet.
+The Will saving throw to resist the fear effect has a DC equal to your normal frightful presence DC or this spell's save DC, whichever is higher.
+Creatures that would normally be shaken by your fear aura are frightened instead, and creatures that would normally be frightened are panicked.
 
 Blinding Breath
 Level: Sorcerer 3, Wizard 3
@@ -44,7 +53,8 @@ Components:
 Casting Time: 
 Range: 
 Target: 
-Duration:
+Duration: 
+As breath flare, except that targets that fail their saving throws against your breath weapon are permanently blinded, rather than dazzled.
 
 Bolt of Glory
 Level: Glory
@@ -53,6 +63,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: 
 Duration: Instantaneous
+You project a bolt of positive energy at a single creature.You must make a successful ranged touch attack to strike your target.The bolt deals 1d12 points of damage per two caster levels (maximum 7d12).Against undead, evil outsiders, and creatures native to the Negative Energy Plane, the bolt instead deals 1d12 points of damage per caster level (maximum 15d12).The bolt deals no damage to good outsiders or creatures native to the Positive Energy Plane.
 
 Breath Flare
 Level: Sorcerer 1, Wizard 1
@@ -61,6 +72,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: Your breath weapon
 Duration: Instantaneous
+If your breath weapon uses fire or electricity, it is suffused with bright light.In addition to taking the normal fire or electricity damage, creatures that fail their saving throws against the breath weapon are dazzled for 1 minute per caster level.Sightless creatures are not affected by breath flare.The modification applies only to the breath produced as part of casting.
 
 Breath Weapon Admixture
 Level: Sorcerer 8, Wizard 8
@@ -69,6 +81,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: Your breath weapon
 Duration: Instantaneous
+Choose one type of energy other than that normally associated with your breath weapon: acid, cold, electricity, or fire.You can modify your breath weapon to add an equal amount of the energy you choose.For example, a wyrm red dragon whose breath weapon normally deals 22d10 points of fire damage could use this spell to produce a cone dealing 22d10 points of fire damage plus 22d10 points of acid damage.Even opposed types of energy, such as fire and cold, can be combined using this spell.The modification applies only to the breath produced as part of the casting.When you use this spell to produce acid, cold, electricity, or fire energy, it is a spell of that type.For example, breath weapon admixture is an acid spell when you cast it to add acid damage to your breath weapon.
 
 Breath Weapon Substitution
 Level: Sorcerer 4, Wizard 4
@@ -77,6 +90,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: Your breath weapon
 Duration: Instantaneous
+Choose one type of energy other than that normally associated with your breath weapon: acid, cold, electricity, or fire.You can modify your breath weapon to use the selected energy type instead of its normal energy type.For example, a mature adult red dragon whose breath weapon normally deals 14d10 points of fire damage could use this spell to produce a cone dealing 14d10 points of acid damage instead.The modification applies only to the breath produced as part of the casting.When you use this spell to produce acid, cold, electricity, or fire energy, it is a spell of that type.For example, breath weapon substitution is an acid spell when you cast it to change your breath weapon to deal acid damage.
 
 Burning Blood
 Level: Sorcerer 5, Wizard 5
@@ -85,6 +99,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 hour/level
+Your blood becomes suffused with the same energy type that powers your breath weapon.(You must have a breath weapon that deals acid, cold, electricity, or fire damage to cast this spell).Whenever you take damage from a natural or manufactured weapon, a spurt of blood erupts in a 5-footradius burst from the wound, dealing energy damage to creatures in its area.The energy-charged blood deals a number of points of damage equal to your caster level.When you use this spell to produce acid, cold, electricity, or fire energy, it is a spell of that type.For example, burning blood is an acid spell when you cast it to suffuse your blood with acid.
 
 Cheat
 Level: Bard 1, Sorcerer 1, Wizard 1, Greed
@@ -93,6 +108,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 minute/level or until used
+At one point during the duration of this spell, you can attempt to alter the outcome of a game of chance.This spell can only affect nonmagical games, such as those using cards or dice.It cannot affect a game involving magic, nor a magic item involved in a game of chance (such as a deck of many things).Whenever a roll is made to determine the outcome of the game, a character under the effect of this spell may demanda reroll and take the better of the two rolls.For example, Darkon is playing a game that he has a 1 in 4 chance of winning.The DM secretly rolls 1d4 and tells the player that Darkon lost.Because Darkon is under the effect of a cheat spell, the player can have the DM reroll.The spell alters probability, so there is no subterfuge that another character could notice (except for the casting of the spell itself ).Focus: A pair of dice made from human bones.
 
 Cloak of Bravery
 Level: Paladin 2, Cleric 3
@@ -101,6 +117,7 @@ Casting Time: 1 standard action
 Range: 60 ft.
 Target: 
 Duration: 10 minutes/level
+All allies within the area (including you) gain a morale bonus on saving throws against fear effects equal to your caster level (max +10).
 
 Contingent Energy Resistance
 Level: Cleric 4, Druid 4, Sorcerer 5, Wizard 5
@@ -109,6 +126,7 @@ Casting Time: 1 minute
 Range: Personal
 Target: You
 Duration: 1 hour/level (D)
+This spell functions similarly to contingency, but with a more limited scope.While contingent energy resistance is in effect, if you are dealt damage associated with one of the five types of energy (acid, cold, electricity, fire, or sonic), the spell automatically grants you resistance 10 against that type of energy for the remainder of the spell's duration (just as if you were under the effect of a resist energy spell of the appropriate type).Once the energy type protected against by a particular casting of this spell is determined, it can't be changed.You can't have more than one contingent energy resistance in effect on yourself at the same time—if you cast the spell a second time while an earlier casting is still in effect, the earlier spell automatically expires.The energy resistance granted by this spell does not stack with similar benefits against the same energy type (such as from the resist energy spell).However, it is possible to be simultaneously under the effect of resist energy (fire) and contingent energy resistance (electricity), or any other two such spells that protect against different types of energy.Material Component: A pearl worth at least 100 gp.
 
 Crown of Glory
 Level: Glory
@@ -117,6 +135,7 @@ Casting Time: 1 standard action
 Range: 120 ft.
 Target: 
 Duration: 1 minute/level
+You are imbued with an aura of celestial authority, inspiring awe in all lesser creatures that behold your terrible perfection and righteousness.You gain a +4 enhancement bonus to Charisma for the duration of the spell.All creatures in the spell's area with fewer than 8 Hit Dice or levels cease whatever they are doing and are compelled to pay attention to you.Any such creature that wants to take hostile action against you must succeed on a Will save to do so.Any creature that fails this save the first time it attempts a hostile action is enthralled for the duration of the spell (as the enthrall spell) as long as it is in the spell's area, and it will not try to leave the area on its own.Creatures with 8 or more Hit Dice are not affected by this spell.When you speak, all listeners telepathically understand you, even if they do not understand your language.While the spell lasts, you can make up to three suggestions to creatures of fewer than 8 HD in range, as if using the mass suggestion spell (Will negates); creatures with 8 HD or more are not affected by this power.Material Component: An opal worth at least 200 gp.
 
 Deafening Breath
 Level: Sorcerer 9, Wizard 9
@@ -124,7 +143,8 @@ Components:
 Casting Time: 
 Range: 
 Target: 
-Duration:
+Duration: 
+As breath weapon admixture, but you add sonic energy to your breath weapon.In addition to dealing extra damage, you permanently deafen creatures that fail their saving throws against your breath.This spell has no effect within an area of magical silence, such as that created by the silence spell.
 
 Death Dragon
 Level: Cleric 7
@@ -133,6 +153,7 @@ Casting Time: 1 round
 Range: Personal
 Target: 
 Duration: 1 round/level (D)
+You summon unholy power to gird yourself in a dragon-shaped cocoon of bones and negative energy.The cocoon gives you a +4 enhancement bonus to your natural armor and a +4 deflection bonus to Armor Class, plus 1 temporary hit point per caster level (maximum 20).You are treated as armed when you make unarmed attacks, and you deal damage as if your limbs were short swords of an appropriate size.You can use your off hand to attack, incurring the standard two-weapon fighting penalties (see page 160 of the Player's Handbook).The death dragon prevents you from casting spells with somatic, material, or focus (but not divine focus) components, but does not otherwise hinder your actions or movement.As a standard action, you may project a cone of fear or make a melee touch attack to use inflict critical wounds on the creature touched.These effects are otherwise identical to the spells of the same names.
 
 Dispelling Breath
 Level: Sorcerer 4, Wizard 4
@@ -141,6 +162,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: Your breath weapon
 Duration: Instantaneous
+Your breath weapon acts as a targeted dispel magic, possibly dispelling magical effects affecting creatures caught in its area.The modification applies only to the breath produced as part of the casting.For each creature or object that fails its saving throw against your breath weapon and that is the target of one or more spells, you make a dispel check against each ongoing spell currently in effect on the object or creature.A dispel check is 1d20 + 1 per caster level (maximum +15) against a DC of 11 + the spell's caster level.A creature's magic items are not affected, and creatures and objects that rolled successful saving throws against your breath weapon are likewise not affected.If a creature that is the effect of an ongoing spell (such as a monster summoned by monster summoning), is in the area and fails its saving throw against your breath weapon, you can also make a dispel check to end the spell that conjured the creature (returning it whence it came).For each ongoing area or effect spell centered within the area of your breath weapon, you make a dispel check to dispel the spell.You may choose to automatically succeed on dispel checks against any spell that you have cast.
 
 Draconic Might
 Level: Paladin 4, Sorcerer 5, Wizard 5
@@ -149,6 +171,7 @@ Casting Time: 1 standard action
 Range: Touch
 Target: Living creature touched
 Duration: 1 minute/level (D)
+The subject of the spell gains a +5 enhancement bonus to Strength, Constitution, and Charisma.It also gains a +4 enhancement bonus to natural armor.Finally, it has immunity to magic sleep and paralysis effects.Special: Sorcerers cast this spell at +1 caster level.
 
 Draconic Polymorph
 Level: Sorcerer 5, Wizard 5
@@ -157,6 +180,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 minute/level (D)
+As polymorph, except as follows: The assumed form can have no more Hit Dice than you have, to a maximum of 20 Hit Dice.Your Strength and Constitution in the new form are above the average for the race or species into which you transform; your Strength is the average for the creature +8, and your Constitution is the average for the creature +2.
 
 Dragon Ally
 Level: Sorcerer 7, Wizard 7, Dragon
@@ -164,7 +188,8 @@ Components:
 Casting Time: 
 Range: 
 Target: 
-Duration:
+Duration: 
+As lesser dragon ally, except you may summon a single dragon of up to 18 HD or two dragons of the same kind whose HD total no more than 18.The dragons agree to help you and request your return payment together.XP Cost: 250 XP.
 
 Dragon Ally, Greater
 Level: Sorcerer 9, Wizard 9
@@ -172,7 +197,8 @@ Components:
 Casting Time: 
 Range: 
 Target: 
-Duration:
+Duration: 
+As lesser dragon ally, except you may summon a single dragon of up to 27 HD or up to three dragons of the same kind whose HD total no more than 27.The dragons agree to help you and request your return payment together.XP Cost: 500 XP.
 
 Dragon Ally, Lesser
 Level: Sorcerer 5, Wizard 5
@@ -181,6 +207,7 @@ Casting Time: 10 minutes
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: 
 Duration: Instantaneous
+This spell summons a dragon.You may ask the dragon to perform one task in exchange for a payment from you.Tasks might range from the simple (fly us across the chasm, help us fight a battle) to the complex (spy on our enemies, protect us on our foray into the dungeon).You must be able to communicate with the dragon to bargain for its services.The summoned dragon requires payment for its services, which takes the form of coins, gems, or other precious objects the dragon can add to its hoard.This payment must be made before the dragon agrees to perform any services.The bargaining takes at least 1 round, so any actions by the creature begin in the round after it arrives.Tasks requiring up to 1 minute per caster level require a payment of 100 gp per HD of the summoned dragon.For a task requiring up to 1 hour per caster level, the creature requires a payment of 500 gp per HD.Long-term tasks (those requiring up to 1 day per caster level) require a payment of 1,000 gp per HD.Especially hazardous tasks require a greater gift, up to twice the given amount.A dragon never accepts less than the indicated amount, even for a nonhazardous task.At the end of its task, or when the duration bargained for elapses, the creature returns to the place it was summoned from (after reporting back to you, if appropriate and possible).XP Cost: 100 XP.Special: Sorcerers cast this spell at +1 caster level.
 
 Dragon Breath
 Level: Sorcerer 3, Wizard 3
@@ -189,6 +216,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 10 minutes/level (D)
+You gain a breath weapon resembling that of a dragon.When you cast this spell, you choose both the shape and energy type of the breath weapon, from the following options: line (acid, electricity, or fire) or cone (acid, cold, or fire).A line is 5 feet high, 5 feet wide, and 60 feet long, while a cone is 30 feet long, 30 feet high, and 30 feet wide.Once you make the selection of shape and energy type, it is fixed for the duration of the spell.Using your breath weapon is a standard action.The breath weapon deals 3d6 points of damage of the chosen energy type, plus an additional 1d6 points of damage for every two levels above 5th (to a maximum of 10d6 at 19th level).Targets in the area may attempt a Reflex save for half damage.You can use this breath weapon up to three times during the spell's duration (plus one additional use per two levels above 5th).After using this breath weapon, you can't use it again for 1d4+1 rounds.(Using this breath weapon has no effect on your ability to use other breath weapons you might have, and vice versa).You can't have more than one dragon breath spell active at the same time.Even though using your breath weapon poses no danger to you, you don't gain any resistance or immunity to the energy type of the weapon.Special: Sorcerers cast this spell at +1 caster level.
 
 Dragonsight
 Level: Bard 5, Sorcerer 5, Wizard 5
@@ -197,6 +225,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 minute/level (D)
+You gain the visual acuity of a dragon, including low-light vision, darkvision, and blindsense.You can see four times as well as a normal human in lowlight conditions and twice as well in normal light.(See the Dragon Sight sidebar, page 17).Your darkvision has a range of 10 feet per caster level.Your blindsense has a range of 5 feet per caster level.You do not need to make Spot or Listen checks to notice creatures within range of your blindsense.None of these effects stack with any low-light vision, darkvision, or blindsense you may already have.Focus: A dragon's eye.
 
 Dragonskin
 Level: Sorcerer 3, Wizard 3
@@ -205,6 +234,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 10 minutes/level
+Your skin toughens and becomes scaly like that of a chromatic dragon, of a color that you select.You gain an enhancement bonus to your natural armor equal to +3, +1 per two levels above 5th (to a maximum of +5 at 9th level), as well as energy resistance equal to twice your caster level (maximum of 20 at 10th level) against the type of energy appropriate to the color you select: acid (black or green), cold (white), electricity (blue), or fire (red).Material Component: A dragon's scale.Special: Sorcerers cast this spell at +1 caster level.
 
 Earthbind
 Level: Druid 2, Sorcerer 2, Wizard 2
@@ -213,6 +243,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One creature
 Duration: 1 minute/level (D)
+You hamper the subject creature's ability to fly (whether through natural or magical means) for the duration of the spell.If the target fails its saving throw, its fly speed (if any) becomes 0 feet.An airborne creature subjected to this spell falls to the ground as if under the effect of a feather fall spell.Even if a new effect would grant the creature the ability to fly, that effect is suppressed for the duration of the earthbind spell.If the target makes a successful Fortitude save, its fly speed (including any new effect granted during the spell's duration) is reduced by 10 feet per caster level (maximum reduction 100 feet at 10th level).This reduction can't bring the creature's fly speed down to less than 10 feet.Earthbind has no effect on other forms of movement, or even on effects that might grant airborne movement without granting a fly speed (such as jumping or levitate or air walk spells).
 
 Energy Immunity
 Level: Cleric 6, Druid 6, Sorcerer 7, Wizard 7
@@ -221,6 +252,7 @@ Casting Time: 1 standard action
 Range: Touch
 Target: Creature touched
 Duration: 24 hours
+This abjuration grants a creature complete protection against damage from whichever one of five energy types you select: acid, cold, electricity, fire, or sonic.The spell protects the recipient's equipment as well.Energy immunity absorbs only damage.The recipient could still suffer unfortunate side effects, such as drowning in acid (since drowning results from a lack of oxygen), being deafened by a sonic attack, or becoming encased in ice.The effect of this spell does not stack with similar effects, such as resist energy and protection from energy, that protect against the same energy type.If a character is warded with energy immunity (fire) and is also receiving resistance to fire from one or more of the other spells, the energy immunity makes the other spells irrelevant.However, it is possible to be simultaneously under the effect of energy immunity (fire) and resist energy (electricity), or any other two such spells that protect against different types of energy.
 
 Enervating Breath
 Level: Sorcerer 8, Wizard 8
@@ -229,6 +261,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: Your breath weapon
 Duration: Instantaneous
+You can modify your breath weapon so that it is laced with negative energy.In addition to the normal energy damage your breath weapon deals, creatures that fail their saving throws against the breath weapon gain 2d4 negative levels.The modification applies only to the breath produced as part of the casting.If the subject gains at least as many negative levels as it has Hit Dice, it dies.Each negative level gives a creature the following penalties: -1 penalty on attack rolls, saving throws, skill checks, ability checks, and effective level (for determining the power, duration, DC, and other details of spells or special abilities).Additionally, a spellcaster loses one spell or spell slot from her highest available level.Negative levels stack.Assuming the subjects survive, they regain lost levels after a number of hours equal to your caster level.Ordinarily, negative levels have a chance of permanently draining the subject's level, but the negative levels from enervating breath don't last long enough to do so.If an undead creature is caught within the breath weapon, it gains 2d4×5 temporary hit points before taking damage from the breath weapon.If not immediately lost, these temporary hit points last for 1 hour.
 
 Entice Gift
 Level: Sorcerer 2, Wizard 2, Greed
@@ -237,6 +270,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One creature
 Duration: 1 round
+You enchant a creature so that it feels suddenly compelled to give you what it is holding when you cast this spell.On the creature's next action, it moves as close to you as it can get in a single round and offers you the object as a standard action.This spell allows you to act out of turn and accept the "gift"if the creature reaches you to hand you the object (assuming you have a free hand and can accept it).The subject defends itself normally and acts as it wishes on subsequent rounds, including attempting to get the object back if desired.If the subject is prevented from doing as the spell compels, the spell is wasted.For example, if the subject is paralyzed and cannot move or drop the item, nothing happens.
 
 Ethereal Breath
 Level: Sorcerer 5, Wizard 5
@@ -245,6 +279,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: Your breath weapon
 Duration: Instantaneous
+You can modify your breath weapon to manifest on the Ethereal Plane instead of on the Material Plane.(You must be on the Material Plane, or on another plane with a coexistent Ethereal Plane, for this spell to function).Your breath weapon affects ethereal creatures as if they were material, and does not affect material creatures in its area.The modification applies only to the breath produced as part of the casting.
 
 Fell the Greatest Foe
 Level: Assassin 3, Paladin 3, Cleric 4
@@ -253,6 +288,7 @@ Casting Time: 1 standard action
 Range: Touch
 Target: Large or larger creature touched
 Duration: 1 round/level
+The subject gains the ability to deal greater damage against Large or larger creatures.For every size category of an opponent bigger than Medium, the subject deals an extra 1d6 points of damage on any successful melee attack (+1d6 against a Large creature, +2d6 against Huge, +3d6 against Gargantuan, or +4d6 against Colossal).Material Component: A dragon's claw or a giant's fingernail.
 
 Find the Gap
 Level: Assassin 3, Paladin 3, Ranger 3
@@ -261,6 +297,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 round/level
+You gain the ability to perceive weak points in your opponent's armor.Once per round, one of your melee or ranged attacks may disregard the target's armor, shield, and natural armor bonuses (including any enhancement bonuses) to Armor Class.Other AC bonuses, such as dodge bonuses, deflection bonuses, and luck bonuses, still apply.
 
 Flight of the Dragon
 Level: Sorcerer 5, Wizard 5
@@ -269,6 +306,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 hour/level (D)
+A pair of powerful draconic wings sprouts from your shoulders, granting you a fly speed of 100 feet (average).You can't carry aloft more than a light load.When flying long distances, you can fly at 15 miles per hour (or 24 miles per hour at a hustle).In a day of normal flight, you can cover 120 miles.Material Component: A dragon's wing-claw.Special: Sorcerers cast this spell at +1 caster level.
 
 Hide from Dragons
 Level: Assassin 4, Hoardstealer 4, Bard 5, Sorcerer 7, Wizard 7
@@ -277,6 +315,7 @@ Casting Time: 1 standard action
 Range: Touch
 Target: One creature touched/two levels
 Duration: 10 minutes/level (D)
+Dragons cannot see, hear, or smell the warded creatures, even with blindsense.They act as though the warded creatures are not there.Warded creatures could stand before the hungriest of red dragons and not be molested or even noticed.If a warded character touches or attacks a dragon, even with a spell, the spell ends for all recipients.Material Component: A dragon scale.
 
 Hiss of Sleep
 Level: Sorcerer 7, Wizard 7
@@ -285,6 +324,7 @@ Casting Time: 1 round
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One creature/level
 Duration: 1 round/level
+Hissing and whispering softly, you lull the targets into a comatose slumber.Sleeping creatures are helpless.Slapping or wounding awakens affected creatures, but normal noise does not.Awakening a creature is a standard action (an application of the aid another action).Hiss of sleep has no effect on creatures that can see you, creatures that have already rolled saving throws against your frightful presence, or unconscious creatures.
 
 Imperious Glare
 Level: Sorcerer 6, Wizard 6
@@ -293,6 +333,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One living creature/level, no two of which may be more than 30 ft. apart
 Duration: 1 round/level
+Directing your gaze toward the target creatures, you instill terror and awe in their hearts.The targets must make successful Will saves or cower.The saving throw DC to resist this effect is either the normal save DC for the spell or the save DC for your natural frightful presence ability, whichever is higher.You cannot cast this spell if you do not have a frightful presence ability, either natural or magically bestowed.
 
 Lower Spell Resistance
 Level: Cleric 4, Sorcerer 4, Wizard 4
@@ -301,6 +342,7 @@ Casting Time: 1 round
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One creature
 Duration: 1 minute/level
+This spell reduces the subject's spell resistance by 1 per caster level (maximum reduction 15).This reduction can't lower a target's spell resistance below 0.The target of the spell takes a penalty on its saving throw equal to your caster level.
 
 Maddening Whispers
 Level: Sorcerer 8, Wizard 8
@@ -309,6 +351,7 @@ Casting Time: 1 round
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One creature/level
 Duration: 1 round/level
+Hissing and whispering softly, you stir feelings of confusion and madness in the targets'minds.You can choose to inflict one of the following conditions upon any creatures that fail their saving throws.Hysteria: The subjects fall into fits of uncontrollable laughing or crying (equal chance for either).Hysterical creatures are unable to attack, cast spells, concentrate on spells, or do anything else requiring attention.The only action such a character can take is a single move action per turn.Panic: The subjects become panicked.If cornered, a panicked creature cowers.Violent Hallucinations: The subjects perceive any nearby creatures as dangerous enemies, attacking the nearest ones and fighting until the subjects are slain or until no more creatures are in sight.Stupor: The subjects curl up on the floor and remain oblivious to events around them.Characters in a stupor are effectively stunned and prone.Maddening whispers has no effect upon creatures that can see you, creatures that have already rolled saving throws against your frightful presence, or unconscious creatures.
 
 Magic Fang, Superior
 Level: Druid 5, Sorcerer 5, Wizard 5
@@ -317,6 +360,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 round/level
+Superior magic fang gives every natural weapon you possess an enhancement bonus on attack and damage rolls equal to +1 per four caster levels (maximum +5 at 20th level).
 
 Mesmerizing Glare
 Level: Sorcerer 2, Wizard 2
@@ -325,6 +369,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One living creature/level, no two of which may be more than 30 ft. apart
 Duration: 1 round/level
+Directing your gaze toward the target creatures, you cause them to stop and stare blankly at you, mesmerized.Creatures that fail their saving throws gaze at your eyes, heedless of all else.Affected creatures are dazed.Any potential threat (such as an armed opponent moving behind the mesmerized creature) allows the creature a new saving throw.Any obvious threat, such as casting a spell, drawing a sword, or aiming an arrow, automatically breaks the effect, as does shaking or slapping the creature.A mesmerized creature's ally may shake it free of the spell as a standard action.
 
 Miser's Envy
 Level: Bard 2, Sorcerer 3, Wizard 3
@@ -333,6 +378,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One living creature and one object (see text)
 Duration: 1 round/level
+When you cast this spell, you designate a target creature and a target object, both of which must be within the spell's range.If the target creature fails its saving throw, it becomes consumed by a powerful desire for the object.For the duration of the spell, the creature seeks to obtain the object (going so far as to attack anyone holding or wearing it).Once the creature gains possession of the object, it protects the item greedily, attacking anyone who approaches within 30 feet or who otherwise appears to be trying to take the object away.Dragons, due to their greedy nature, take a -4 penalty on their saving throws against this spell.
 
 Monstrous Thrall
 Level: Domination
@@ -341,6 +387,7 @@ Casting Time:
 Range: 
 Target: 
 Duration: Permanent
+As dominate monster (see page 224 of the Player's Handbook), except the subject is permanently dominated if it fails its initial Will save.A subject ordered to take an action against its nature receives a Will save with a -4 penalty to resist taking that particular action.If the save succeeds, the subject still remains your thrall despite its minor mutiny.Once a subject makes a successful saving throw to resist a specific order, it makes all future saving throws to resist taking that specific action without a penalty.XP Cost: 500 XP per Hit Die or level of the subject.
 
 Phantasmal Thief
 Level: Sorcerer 8, Wizard 8, Greed
@@ -349,6 +396,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: 
 Duration: 1 round/level
+An invisible force, not unlike an unseen servant, comes into being where the caster wishes.On the caster's turn, this force steals objects from others as she inaudibly directs it to (a free action).A phantasmal thief can only steal from creatures.It cannot break into locked chests or steal unattended objects.A phantasmal thief has a Hide modifier of +20 (useful against those who can see invisible creatures) and a Move Silently modifier of +20.If a phantasmal thief goes undetected, it can steal any object a creature possesses but is not holding or wearing.Even objects in a bag of holding can be stolen.It can only steal objects, bring objects to the caster, or put them back where they came from.It can take no other actions.A phantasmal thief needs 1 round to steal an object and another round to bring it to the caster.A phantasmal thief can only hold one object at a time, and the object becomes invisible in its grasp.The thief cannot take an item if it is detected by the creature it's trying to steal from (with a Listen or Spot check).However, the thief can repeat the attempt in the next round.It cannot be harmed in any way, although it can be dispelled.A phantasmal thief can steal an object from a creature's hand by making a successful disarm attempt.It does this as if it had the Improved Disarm feat and a +20 Strength modifier.If a phantasmal thief is used in this way, it disappears after it brings the stolen object to the caster.Material Component: A spool of green thread.
 
 Razorfangs
 Level: Sorcerer 2, Wizard 2
@@ -357,6 +405,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 round/level
+Choose one of your natural weapons that deals slashing or piercing damage (your bite or a single claw).That natural weapon's threat range doubles (in most cases, becoming 19-20).This spell does not stack with any other effects that increase a weapon's threat range.This spell's name derives from a marked preference among dragons for improving their bite attack with this spell, but it works equally well on a claw attack.
 
 Rebuking Breath
 Level: Sorcerer 4, Wizard 4
@@ -365,6 +414,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: Your breath weapon
 Duration: Instantaneous
+You imbue your breath weapon with negative energy that rebukes undead in its area.Undead within the area of your breath weapon that fail their saving throws against it are rebuked, and cower as if in awe for 10 rounds.The modification applies only to the breath produced as part of the casting.
 
 Scale Weakening
 Level: Sorcerer 2, Wizard 2
@@ -373,6 +423,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: 
 Duration: 10 minutes/level (D)
+A dull gray ray projects from your hand.You must succeed on a ranged touch attack to strike a target.The target's natural armor bonus is reduced by 4 points, +1 point per two caster levels above 3rd (maximum reduction 10 points at 15th level).This spell can't reduce a creature's natural armor bonus to less than 0, nor does it have any effect on an enhancement bonus to natural armor (such as that granted by the barkskin spell).Material Component: A shed snakeskin.
 
 Scintillating Scales
 Level: Sorcerer 2, Wizard 2
@@ -381,6 +432,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 round/level
+Your hide glistens and shimmers with a protective magical aura, granting you a deflection bonus to your Armor Class equal to your Constitution modifier.Your natural armor bonus decreases by an amount equal to your Constitution modifier x 1/2.
 
 Sharptooth
 Level: Sorcerer 4, Wizard 4
@@ -389,6 +441,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 1 round/level
+Choose one of your natural weapons (your bite, a single claw, a wing, a crush, a tail slap, or a tail sweep).For the duration of the spell, that natural weapon deals damage as though you were one size larger than your actual size.You cannot gain additional attack forms (such as a tail slap) by using this spell; you can only improve attacks you already possess.This spell does not stack with itself.This spell's name derives from a marked preference among dragons for improving their bite attacks with this spell, but it works equally well on claw, wing, tail, and crush attacks.
 
 Shield of Warding
 Level: Paladin 2, Cleric 3
@@ -397,6 +450,8 @@ Casting Time: 1 standard action
 Range: Touch
 Target: One shield or buckler
 Duration: 1 minute/level
+The touched shield or buckler grants its wielder a +1 sacred bonus on Reflex saves, +1 per five caster levels (maximum +5 at 20th level).
+The bonus only applies when the shield is worn or carried normally (but not, for instance, if it is slung over the shoulder).
 
 Stunning Breath
 Level: Sorcerer 4, Wizard 4
@@ -405,6 +460,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: Your breath weapon
 Duration: Instantaneous
+You imbue your damaging breath weapon with concussive force that can stun those caught in its area.Creatures that take damage from the breath weapon must make successful Fortitude saves (DC equal to your breath weapon save DC) or be stunned for 1 round.The modification applies only to the breath produced as part of the casting.
 
 Stunning Breath, Greater
 Level: Sorcerer 7, Wizard 7
@@ -412,7 +468,8 @@ Components:
 Casting Time: 
 Range: 
 Target: 
-Duration:
+Duration: 
+As stunning breath, but creatures that fail their Fortitude saves are stunned for 2d4 rounds.
 
 Suppress Breath Weapon
 Level: Bard 3, Sorcerer 3, Wizard 3
@@ -421,6 +478,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One creature
 Duration: 1 minute/level
+The target of this spell cannot choose to use its breath weapon unless "forced" to do so by an enchantment (compulsion) spell of higher level, such as lesser geas.
 
 True Domination
 Level: Domination
@@ -428,7 +486,8 @@ Components:
 Casting Time: 
 Range: 
 Target: 
-Duration:
+Duration: 
+As dominate person (see page 224 of the Player's Handbook), except that subjects forced to take actions against their nature receive a new saving throw with a -4 penalty.
 
 Voice of the Dragon
 Level: Bard 4, Sorcerer 4, Wizard 4, Dragon
@@ -437,6 +496,7 @@ Casting Time: 1 standard action
 Range: Personal
 Target: You
 Duration: 10 minutes/level (D)
+You gain a +10 enhancement bonus on your Bluff, Diplomacy, and Intimidate checks.You also gain the ability to speak and understand (but not read) Draconic.At any time before the spell's duration expires, you can use a standard action to target a creature with a suggestion effect, which functions identically to the spell of that name (including range, duration, and other effects).Doing this causes the voice of the dragon spell to end, though the suggestion itself lasts for the normal duration thereafter.Special: Sorcerers cast this spell at +1 caster level.
 
 Vulnerability
 Level: Assassin 4, Cleric 5, Sorcerer 5, Wizard 5
@@ -445,6 +505,7 @@ Casting Time: 1 standard action
 Range: Touch
 Target: Creature touched
 Duration: 1 round/level
+This spell lowers the subject's damage reduction by 5 points (to a minimum of 5).For instance, if you successfully cast vulnerability on a dragon with damage reduction 10/magic, its damage reduction becomes 5/magic.For every four caster levels beyond 11th, the subject's damage reduction lowers by an additional 5 points: 10 at 15th and 15 at 19th.
 
 Wingbind
 Level: Sorcerer 4, Wizard 4
@@ -453,6 +514,7 @@ Casting Time: 1 standard action
 Range: Close (25 ft. + 5 ft./2 levels)
 Target: One creature
 Duration: 1 round/level (D)
+A web of force surrounds the target, entangling it like a net.If the target fails its saving throw, it is entangled.Perhaps most important, the creature cannot use wings to fly—hence the common name of this spell.A creature flying with wings falls immediately if it is entangled by wingbind.An entangled creature can escape with a successful EscapeArtist check against a DC equal to the saving throw DC of the spell.Like a wall of force, the web of force is impervious to most attacks: It is immune to damage of all kinds, cannot be burst with a Strength check, and is unaffected by most spells, including dispel magic.Also like wall of force, the web is immediately destroyed by disintegrate, a rod of cancellation, a sphere of annihilation, or Mordenkainen's disjunction.
 
 Wings of Air
 Level: Sorcerer 2, Wizard 2
@@ -461,6 +523,7 @@ Casting Time: 1 standard action
 Range: Touch
 Target: Winged creature touched
 Duration: 1 minute/level
+The creature you touch becomes more agile in the air, able to make quicker turns, and more maneuverable when flying.The target must be capable of flight using wings.The creature's maneuverability improves by one step—from clumsy to poor, poor to average, average to good, or good to perfect.A single creature cannot benefit from multiple applications of this spell at one time.
 
 Wings of Air, Greater
 Level: Sorcerer 5, Wizard 5
@@ -468,5 +531,6 @@ Components:
 Casting Time: 
 Range: 
 Target: 
-Duration:
+Duration: 
+As wings of air, but the creature's maneuverability improves by two steps—from clumsy to average, poor to good, or average to perfect.
 
