@@ -1,0 +1,472 @@
+Animate Breath
+Level: Sorcerer 7, Wizard 7
+Components: S, MB
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 round/level
+
+Antidragon Aura
+Level: Cleric 4, Sorcerer 4, Wizard 4
+Components: V, S, M, DF
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: 1 creature/two levels, no two of which can be more than 30 ft. apart
+Duration: 1 minute/level
+
+Antimagic Ray
+Level: Sorcerer 7, Wizard 7
+Components: V, S, M
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One creature or object
+Duration: 1 round/level
+
+Aura of Evasion
+Level: Cleric 5, Sorcerer 6, Wizard 6
+Components: V, S, M, DF
+Casting Time: 1 standard action
+Range: 
+Target: 
+Duration: 1 minute/level
+
+Aura of Terror
+Level: Sorcerer 6, Wizard 6
+Components: V
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 minute/level
+
+Blinding Breath
+Level: Sorcerer 3, Wizard 3
+Components: 
+Casting Time: 
+Range: 
+Target: 
+Duration:
+
+Bolt of Glory
+Level: Glory
+Components: V, S, DF
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: 
+Duration: Instantaneous
+
+Breath Flare
+Level: Sorcerer 1, Wizard 1
+Components: S, MB
+Casting Time: 1 standard action
+Range: Personal
+Target: Your breath weapon
+Duration: Instantaneous
+
+Breath Weapon Admixture
+Level: Sorcerer 8, Wizard 8
+Components: S, MB
+Casting Time: 1 standard action
+Range: Personal
+Target: Your breath weapon
+Duration: Instantaneous
+
+Breath Weapon Substitution
+Level: Sorcerer 4, Wizard 4
+Components: S, MB
+Casting Time: 1 standard action
+Range: Personal
+Target: Your breath weapon
+Duration: Instantaneous
+
+Burning Blood
+Level: Sorcerer 5, Wizard 5
+Components: V, S
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 hour/level
+
+Cheat
+Level: Bard 1, Sorcerer 1, Wizard 1, Greed
+Components: V, S, AF
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 minute/level or until used
+
+Cloak of Bravery
+Level: Paladin 2, Cleric 3
+Components: V, S
+Casting Time: 1 standard action
+Range: 60 ft.
+Target: 
+Duration: 10 minutes/level
+
+Contingent Energy Resistance
+Level: Cleric 4, Druid 4, Sorcerer 5, Wizard 5
+Components: V, S, M
+Casting Time: 1 minute
+Range: Personal
+Target: You
+Duration: 1 hour/level (D)
+
+Crown of Glory
+Level: Glory
+Components: V, S, M, DF
+Casting Time: 1 standard action
+Range: 120 ft.
+Target: 
+Duration: 1 minute/level
+
+Deafening Breath
+Level: Sorcerer 9, Wizard 9
+Components: 
+Casting Time: 
+Range: 
+Target: 
+Duration:
+
+Death Dragon
+Level: Cleric 7
+Components: V, S, DF
+Casting Time: 1 round
+Range: Personal
+Target: 
+Duration: 1 round/level (D)
+
+Dispelling Breath
+Level: Sorcerer 4, Wizard 4
+Components: S, MB
+Casting Time: 1 standard action
+Range: Personal
+Target: Your breath weapon
+Duration: Instantaneous
+
+Draconic Might
+Level: Paladin 4, Sorcerer 5, Wizard 5
+Components: V, S, M
+Casting Time: 1 standard action
+Range: Touch
+Target: Living creature touched
+Duration: 1 minute/level (D)
+
+Draconic Polymorph
+Level: Sorcerer 5, Wizard 5
+Components: V
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 minute/level (D)
+
+Dragon Ally
+Level: Sorcerer 7, Wizard 7, Dragon
+Components: 
+Casting Time: 
+Range: 
+Target: 
+Duration:
+
+Dragon Ally, Greater
+Level: Sorcerer 9, Wizard 9
+Components: 
+Casting Time: 
+Range: 
+Target: 
+Duration:
+
+Dragon Ally, Lesser
+Level: Sorcerer 5, Wizard 5
+Components: V, XP
+Casting Time: 10 minutes
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: 
+Duration: Instantaneous
+
+Dragon Breath
+Level: Sorcerer 3, Wizard 3
+Components: V, S
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 10 minutes/level (D)
+
+Dragonsight
+Level: Bard 5, Sorcerer 5, Wizard 5
+Components: V, S, AF
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 minute/level (D)
+
+Dragonskin
+Level: Sorcerer 3, Wizard 3
+Components: S, M
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 10 minutes/level
+
+Earthbind
+Level: Druid 2, Sorcerer 2, Wizard 2
+Components: V, S
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One creature
+Duration: 1 minute/level (D)
+
+Energy Immunity
+Level: Cleric 6, Druid 6, Sorcerer 7, Wizard 7
+Components: V, S
+Casting Time: 1 standard action
+Range: Touch
+Target: Creature touched
+Duration: 24 hours
+
+Enervating Breath
+Level: Sorcerer 8, Wizard 8
+Components: S, MB
+Casting Time: 1 standard action
+Range: Personal
+Target: Your breath weapon
+Duration: Instantaneous
+
+Entice Gift
+Level: Sorcerer 2, Wizard 2, Greed
+Components: V, S
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One creature
+Duration: 1 round
+
+Ethereal Breath
+Level: Sorcerer 5, Wizard 5
+Components: S, MB
+Casting Time: 1 standard action
+Range: Personal
+Target: Your breath weapon
+Duration: Instantaneous
+
+Fell the Greatest Foe
+Level: Assassin 3, Paladin 3, Cleric 4
+Components: V, S, M
+Casting Time: 1 standard action
+Range: Touch
+Target: Large or larger creature touched
+Duration: 1 round/level
+
+Find the Gap
+Level: Assassin 3, Paladin 3, Ranger 3
+Components: V
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 round/level
+
+Flight of the Dragon
+Level: Sorcerer 5, Wizard 5
+Components: V, M
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 hour/level (D)
+
+Hide from Dragons
+Level: Assassin 4, Hoardstealer 4, Bard 5, Sorcerer 7, Wizard 7
+Components: S, M
+Casting Time: 1 standard action
+Range: Touch
+Target: One creature touched/two levels
+Duration: 10 minutes/level (D)
+
+Hiss of Sleep
+Level: Sorcerer 7, Wizard 7
+Components: V
+Casting Time: 1 round
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One creature/level
+Duration: 1 round/level
+
+Imperious Glare
+Level: Sorcerer 6, Wizard 6
+Components: S
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One living creature/level, no two of which may be more than 30 ft. apart
+Duration: 1 round/level
+
+Lower Spell Resistance
+Level: Cleric 4, Sorcerer 4, Wizard 4
+Components: V, S
+Casting Time: 1 round
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One creature
+Duration: 1 minute/level
+
+Maddening Whispers
+Level: Sorcerer 8, Wizard 8
+Components: V
+Casting Time: 1 round
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One creature/level
+Duration: 1 round/level
+
+Magic Fang, Superior
+Level: Druid 5, Sorcerer 5, Wizard 5
+Components: V, S
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 round/level
+
+Mesmerizing Glare
+Level: Sorcerer 2, Wizard 2
+Components: S
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One living creature/level, no two of which may be more than 30 ft. apart
+Duration: 1 round/level
+
+Miser's Envy
+Level: Bard 2, Sorcerer 3, Wizard 3
+Components: V, S, M
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One living creature and one object (see text)
+Duration: 1 round/level
+
+Monstrous Thrall
+Level: Domination
+Components: V, S, XP
+Casting Time: 
+Range: 
+Target: 
+Duration: Permanent
+
+Phantasmal Thief
+Level: Sorcerer 8, Wizard 8, Greed
+Components: V, S, M
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: 
+Duration: 1 round/level
+
+Razorfangs
+Level: Sorcerer 2, Wizard 2
+Components: V
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 round/level
+
+Rebuking Breath
+Level: Sorcerer 4, Wizard 4
+Components: S, MB
+Casting Time: 1 standard action
+Range: Personal
+Target: Your breath weapon
+Duration: Instantaneous
+
+Scale Weakening
+Level: Sorcerer 2, Wizard 2
+Components: V, S, M
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: 
+Duration: 10 minutes/level (D)
+
+Scintillating Scales
+Level: Sorcerer 2, Wizard 2
+Components: V
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 round/level
+
+Sharptooth
+Level: Sorcerer 4, Wizard 4
+Components: V, S
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 1 round/level
+
+Shield of Warding
+Level: Paladin 2, Cleric 3
+Components: V
+Casting Time: 1 standard action
+Range: Touch
+Target: One shield or buckler
+Duration: 1 minute/level
+
+Stunning Breath
+Level: Sorcerer 4, Wizard 4
+Components: S, MB
+Casting Time: 1 standard action
+Range: Personal
+Target: Your breath weapon
+Duration: Instantaneous
+
+Stunning Breath, Greater
+Level: Sorcerer 7, Wizard 7
+Components: 
+Casting Time: 
+Range: 
+Target: 
+Duration:
+
+Suppress Breath Weapon
+Level: Bard 3, Sorcerer 3, Wizard 3
+Components: V
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One creature
+Duration: 1 minute/level
+
+True Domination
+Level: Domination
+Components: 
+Casting Time: 
+Range: 
+Target: 
+Duration:
+
+Voice of the Dragon
+Level: Bard 4, Sorcerer 4, Wizard 4, Dragon
+Components: V, S
+Casting Time: 1 standard action
+Range: Personal
+Target: You
+Duration: 10 minutes/level (D)
+
+Vulnerability
+Level: Assassin 4, Cleric 5, Sorcerer 5, Wizard 5
+Components: V, S
+Casting Time: 1 standard action
+Range: Touch
+Target: Creature touched
+Duration: 1 round/level
+
+Wingbind
+Level: Sorcerer 4, Wizard 4
+Components: V, S
+Casting Time: 1 standard action
+Range: Close (25 ft. + 5 ft./2 levels)
+Target: One creature
+Duration: 1 round/level (D)
+
+Wings of Air
+Level: Sorcerer 2, Wizard 2
+Components: V
+Casting Time: 1 standard action
+Range: Touch
+Target: Winged creature touched
+Duration: 1 minute/level
+
+Wings of Air, Greater
+Level: Sorcerer 5, Wizard 5
+Components: 
+Casting Time: 
+Range: 
+Target: 
+Duration:
+
